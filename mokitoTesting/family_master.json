@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "63105094c9bb064cb38c8ca5"
+  },
+  "members_count": "5",
+  "members": [
+    "father",
+    "mother",
+    "younger brother",
+    "elder brother",
+    "sister"
+  ],
+  "rooms": "5",
+  "state": "selected"
+},{
+  "_id": {
+    "$oid": "631051c2c9bb064cb38c8ca6"
+  },
+  "members_count": "4",
+  "members": [
+    "father",
+    "mother",
+    "younger brother",
+    "elder brother"
+  ],
+  "rooms": "4",
+  "state": "Not selected"
+},{
+  "_id": {
+    "$oid": "631051d7c9bb064cb38c8ca7"
+  },
+  "members_count": "3",
+  "members": [
+    "father",
+    "mother",
+    "sister"
+  ],
+  "rooms": "3",
+  "state": "selected"
+},{
+  "_id": {
+    "$oid": "6310f114e863aa1680e89764"
+  },
+  "members_count": "2",
+  "members": [
+    "father",
+    "mother"
+  ],
+  "rooms": "5",
+  "state": "Non Selected",
+  "_class": "lk.himash.mokitoTesting.entity.Family"
+}]
